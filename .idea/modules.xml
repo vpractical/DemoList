@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DemoList.iml" filepath="$PROJECT_DIR$/DemoList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activityoptionscompat/activityoptionscompat.iml" filepath="$PROJECT_DIR$/activityoptionscompat/activityoptionscompat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cardview_demo/cardview_demo.iml" filepath="$PROJECT_DIR$/cardview_demo/cardview_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collapsingtoolbarlayout_demo/collapsingtoolbarlayout_demo.iml" filepath="$PROJECT_DIR$/collapsingtoolbarlayout_demo/collapsingtoolbarlayout_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coordinatorlayout_demo/coordinatorlayout_demo.iml" filepath="$PROJECT_DIR$/coordinatorlayout_demo/coordinatorlayout_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shape/shape.iml" filepath="$PROJECT_DIR$/shape/shape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stickyservice/stickyservice.iml" filepath="$PROJECT_DIR$/stickyservice/stickyservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tablayout_demo/tablayout_demo.iml" filepath="$PROJECT_DIR$/tablayout_demo/tablayout_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toolbar/toolbar.iml" filepath="$PROJECT_DIR$/toolbar/toolbar.iml" />
+    </modules>
+  </component>
+</project>
